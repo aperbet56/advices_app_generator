@@ -1,4 +1,6 @@
-## Advice generator app
+## ADVICE GENERATOR APP
+
+![Design preview for the project](./img/preview.png)
 
 ## The challenge
 
